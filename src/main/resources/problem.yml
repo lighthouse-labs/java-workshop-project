@@ -1,0 +1,2512 @@
+---
+- id: 1
+  gender: MALE
+  firstName: ALLEN
+  lastName: THOMPSON
+  seatAtSameTable:
+  - 201
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 2
+  gender: FEMALE
+  firstName: ELAINA
+  lastName: LEE
+  seatAtSameTable: []
+  seatBeside:
+  - 159
+  - 111
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 3
+  gender: FEMALE
+  firstName: HOLLIS
+  lastName: LEE
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 4
+  gender: MALE
+  firstName: FLORENTINO
+  lastName: MARTIN
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 5
+  gender: FEMALE
+  firstName: CONNIE
+  lastName: RODRIGUEZ
+  seatAtSameTable:
+  - 168
+  - 231
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 44
+- id: 6
+  gender: MALE
+  firstName: SPENCER
+  lastName: HARRIS
+  seatAtSameTable:
+  - 28
+  seatBeside:
+  - 74
+  doNotSeatAtSameTable:
+  - 218
+  - 56
+  doNotSeatBeside: []
+- id: 7
+  gender: MALE
+  firstName: GABRIEL
+  lastName: THOMPSON
+  seatAtSameTable:
+  - 75
+  - 58
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 52
+  doNotSeatBeside:
+  - 155
+  - 206
+- id: 8
+  gender: MALE
+  firstName: ISMAEL
+  lastName: BROWN
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 9
+  gender: FEMALE
+  firstName: ELLY
+  lastName: TAYLOR
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 10
+  gender: FEMALE
+  firstName: DARLENA
+  lastName: JOHNSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 11
+  gender: MALE
+  firstName: ARLIE
+  lastName: WILLIAMS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 12
+  gender: MALE
+  firstName: MONTE
+  lastName: JACKSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 13
+  gender: FEMALE
+  firstName: CHIN
+  lastName: THOMAS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 14
+  gender: MALE
+  firstName: QUINN
+  lastName: CLARK
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 15
+  gender: FEMALE
+  firstName: CARMINA
+  lastName: TAYLOR
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 16
+  gender: FEMALE
+  firstName: RETHA
+  lastName: SMITH
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 17
+  gender: MALE
+  firstName: MERRILL
+  lastName: RODRIGUEZ
+  seatAtSameTable:
+  - 17
+  seatBeside:
+  - 110
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 18
+  gender: FEMALE
+  firstName: BEATA
+  lastName: HARRIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 19
+  gender: FEMALE
+  firstName: LATRISHA
+  lastName: ROBINSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 20
+  gender: FEMALE
+  firstName: OLETA
+  lastName: ANDERSON
+  seatAtSameTable:
+  - 170
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 21
+  gender: FEMALE
+  firstName: MATILDE
+  lastName: CLARK
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 22
+  gender: FEMALE
+  firstName: FREDDA
+  lastName: THOMPSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 23
+  gender: MALE
+  firstName: WILFREDO
+  lastName: LEWIS
+  seatAtSameTable:
+  - 182
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 248
+  - 20
+  doNotSeatBeside: []
+- id: 24
+  gender: FEMALE
+  firstName: RANA
+  lastName: RODRIGUEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 25
+  gender: FEMALE
+  firstName: CHRISTY
+  lastName: MARTIN
+  seatAtSameTable:
+  - 136
+  - 2
+  seatBeside:
+  - 4
+  doNotSeatAtSameTable:
+  - 122
+  - 177
+  doNotSeatBeside: []
+- id: 26
+  gender: MALE
+  firstName: JULIUS
+  lastName: JACKSON
+  seatAtSameTable:
+  - 247
+  - 71
+  seatBeside:
+  - 75
+  doNotSeatAtSameTable:
+  - 202
+  doNotSeatBeside:
+  - 181
+  - 64
+- id: 27
+  gender: MALE
+  firstName: ALEXANDER
+  lastName: WILSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 28
+  gender: FEMALE
+  firstName: STEVEN
+  lastName: ANDERSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 29
+  gender: FEMALE
+  firstName: MEE
+  lastName: JOHNSON
+  seatAtSameTable: []
+  seatBeside:
+  - 88
+  doNotSeatAtSameTable:
+  - 249
+  - 89
+  doNotSeatBeside:
+  - 188
+- id: 30
+  gender: FEMALE
+  firstName: NARCISA
+  lastName: THOMPSON
+  seatAtSameTable:
+  - 17
+  seatBeside:
+  - 112
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 31
+  gender: MALE
+  firstName: EZEKIEL
+  lastName: BROWN
+  seatAtSameTable: []
+  seatBeside:
+  - 203
+  - 35
+  doNotSeatAtSameTable:
+  - 143
+  doNotSeatBeside:
+  - 149
+  - 238
+- id: 32
+  gender: MALE
+  firstName: RILEY
+  lastName: BROWN
+  seatAtSameTable:
+  - 167
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 82
+  doNotSeatBeside:
+  - 65
+- id: 33
+  gender: MALE
+  firstName: TIMMY
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 34
+  gender: FEMALE
+  firstName: CARLI
+  lastName: ANDERSON
+  seatAtSameTable:
+  - 138
+  - 76
+  seatBeside:
+  - 241
+  doNotSeatAtSameTable:
+  - 245
+  doNotSeatBeside:
+  - 33
+- id: 35
+  gender: FEMALE
+  firstName: BLOSSOM
+  lastName: JOHNSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 36
+  gender: MALE
+  firstName: CLIFFORD
+  lastName: WHITE
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 37
+  gender: MALE
+  firstName: WILBURN
+  lastName: LEE
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 38
+  gender: FEMALE
+  firstName: GILDA
+  lastName: WILSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 39
+  gender: MALE
+  firstName: AUSTIN
+  lastName: SMITH
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 40
+  gender: MALE
+  firstName: ALBERTO
+  lastName: WHITE
+  seatAtSameTable: []
+  seatBeside:
+  - 59
+  - 91
+  doNotSeatAtSameTable:
+  - 140
+  doNotSeatBeside: []
+- id: 41
+  gender: MALE
+  firstName: CEDRIC
+  lastName: JONES
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 42
+  gender: MALE
+  firstName: JERMAINE
+  lastName: SMITH
+  seatAtSameTable:
+  - 11
+  - 90
+  seatBeside:
+  - 137
+  - 151
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 43
+  gender: FEMALE
+  firstName: MILLY
+  lastName: WALKER
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 44
+  gender: MALE
+  firstName: MARCELLUS
+  lastName: MOORE
+  seatAtSameTable: []
+  seatBeside:
+  - 186
+  doNotSeatAtSameTable:
+  - 104
+  doNotSeatBeside: []
+- id: 45
+  gender: MALE
+  firstName: ROOSEVELT
+  lastName: MILLER
+  seatAtSameTable:
+  - 102
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 172
+  - 103
+  doNotSeatBeside:
+  - 195
+  - 234
+- id: 46
+  gender: FEMALE
+  firstName: JOANN
+  lastName: WHITE
+  seatAtSameTable: []
+  seatBeside:
+  - 166
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 47
+  gender: MALE
+  firstName: BURL
+  lastName: MARTIN
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 48
+  gender: FEMALE
+  firstName: LOURA
+  lastName: LEWIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 49
+  gender: MALE
+  firstName: MICHAEL
+  lastName: WILSON
+  seatAtSameTable:
+  - 54
+  - 41
+  seatBeside:
+  - 161
+  - 201
+  doNotSeatAtSameTable:
+  - 31
+  doNotSeatBeside:
+  - 238
+  - 233
+- id: 50
+  gender: MALE
+  firstName: GUILLERMO
+  lastName: JOHNSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 51
+  gender: MALE
+  firstName: CASEY
+  lastName: WILLIAMS
+  seatAtSameTable:
+  - 71
+  - 72
+  seatBeside:
+  - 209
+  - 158
+  doNotSeatAtSameTable:
+  - 191
+  - 233
+  doNotSeatBeside:
+  - 213
+- id: 52
+  gender: MALE
+  firstName: ALPHONSE
+  lastName: LEWIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 53
+  gender: FEMALE
+  firstName: SHANITA
+  lastName: MILLER
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 54
+  gender: MALE
+  firstName: BRETT
+  lastName: ANDERSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 179
+  - 198
+- id: 55
+  gender: MALE
+  firstName: CARMEN
+  lastName: THOMPSON
+  seatAtSameTable:
+  - 221
+  seatBeside:
+  - 21
+  - 244
+  doNotSeatAtSameTable:
+  - 160
+  doNotSeatBeside: []
+- id: 56
+  gender: FEMALE
+  firstName: WILLIA
+  lastName: THOMPSON
+  seatAtSameTable:
+  - 111
+  seatBeside:
+  - 7
+  - 163
+  doNotSeatAtSameTable:
+  - 92
+  - 30
+  doNotSeatBeside:
+  - 187
+- id: 57
+  gender: FEMALE
+  firstName: ELVIRA
+  lastName: CLARK
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 58
+  gender: MALE
+  firstName: JOHNNY
+  lastName: LEWIS
+  seatAtSameTable:
+  - 217
+  seatBeside:
+  - 46
+  - 67
+  doNotSeatAtSameTable:
+  - 1
+  - 135
+  doNotSeatBeside:
+  - 244
+- id: 59
+  gender: FEMALE
+  firstName: REBBECCA
+  lastName: LEWIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 60
+  gender: FEMALE
+  firstName: KANDRA
+  lastName: SMITH
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 61
+  gender: MALE
+  firstName: ENOCH
+  lastName: SMITH
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 62
+  gender: MALE
+  firstName: COY
+  lastName: TAYLOR
+  seatAtSameTable:
+  - 39
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 196
+  - 180
+  doNotSeatBeside:
+  - 149
+  - 183
+- id: 63
+  gender: MALE
+  firstName: CHI
+  lastName: LEE
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 64
+  gender: FEMALE
+  firstName: CHARMAINE
+  lastName: ROBINSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 65
+  gender: FEMALE
+  firstName: ROSARIA
+  lastName: DAVIS
+  seatAtSameTable:
+  - 235
+  seatBeside:
+  - 100
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 76
+  - 71
+- id: 66
+  gender: MALE
+  firstName: CORTEZ
+  lastName: CLARK
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 67
+  gender: FEMALE
+  firstName: MARLO
+  lastName: MOORE
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 68
+  gender: MALE
+  firstName: EDDY
+  lastName: JOHNSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 69
+  gender: FEMALE
+  firstName: PHUONG
+  lastName: WALKER
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 70
+  gender: FEMALE
+  firstName: JAMES
+  lastName: JACKSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 71
+  gender: MALE
+  firstName: HAYDEN
+  lastName: TAYLOR
+  seatAtSameTable:
+  - 123
+  seatBeside:
+  - 99
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 2
+- id: 72
+  gender: MALE
+  firstName: EMMITT
+  lastName: MOORE
+  seatAtSameTable:
+  - 46
+  seatBeside:
+  - 176
+  - 94
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 85
+  - 102
+- id: 73
+  gender: MALE
+  firstName: ED
+  lastName: MILLER
+  seatAtSameTable:
+  - 190
+  seatBeside:
+  - 200
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 30
+  - 151
+- id: 74
+  gender: FEMALE
+  firstName: ANNAMARIA
+  lastName: LEE
+  seatAtSameTable:
+  - 215
+  - 163
+  seatBeside:
+  - 248
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 169
+- id: 75
+  gender: FEMALE
+  firstName: ANABEL
+  lastName: DAVIS
+  seatAtSameTable:
+  - 236
+  - 20
+  seatBeside:
+  - 83
+  doNotSeatAtSameTable:
+  - 32
+  doNotSeatBeside: []
+- id: 76
+  gender: MALE
+  firstName: BLAINE
+  lastName: DAVIS
+  seatAtSameTable:
+  - 176
+  - 214
+  seatBeside:
+  - 158
+  doNotSeatAtSameTable:
+  - 175
+  doNotSeatBeside:
+  - 16
+- id: 77
+  gender: FEMALE
+  firstName: ROWENA
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 78
+  gender: FEMALE
+  firstName: FLORINE
+  lastName: LEWIS
+  seatAtSameTable:
+  - 241
+  - 200
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 204
+- id: 79
+  gender: MALE
+  firstName: STANLEY
+  lastName: JACKSON
+  seatAtSameTable:
+  - 79
+  - 3
+  seatBeside:
+  - 182
+  - 105
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 87
+  - 250
+- id: 80
+  gender: MALE
+  firstName: SALVADOR
+  lastName: ROBINSON
+  seatAtSameTable: []
+  seatBeside:
+  - 238
+  doNotSeatAtSameTable:
+  - 47
+  - 58
+  doNotSeatBeside:
+  - 236
+- id: 81
+  gender: MALE
+  firstName: SIMON
+  lastName: DAVIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 82
+  gender: MALE
+  firstName: NICK
+  lastName: GARCIA
+  seatAtSameTable:
+  - 1
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 203
+  - 141
+- id: 83
+  gender: MALE
+  firstName: BILL
+  lastName: JOHNSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 84
+  gender: MALE
+  firstName: COY
+  lastName: WHITE
+  seatAtSameTable:
+  - 89
+  - 230
+  seatBeside:
+  - 148
+  doNotSeatAtSameTable:
+  - 7
+  - 61
+  doNotSeatBeside: []
+- id: 85
+  gender: FEMALE
+  firstName: LAVONNE
+  lastName: GARCIA
+  seatAtSameTable: []
+  seatBeside:
+  - 106
+  doNotSeatAtSameTable:
+  - 164
+  doNotSeatBeside:
+  - 136
+- id: 86
+  gender: MALE
+  firstName: SAMMIE
+  lastName: LEWIS
+  seatAtSameTable:
+  - 43
+  seatBeside:
+  - 198
+  doNotSeatAtSameTable:
+  - 246
+  - 141
+  doNotSeatBeside: []
+- id: 87
+  gender: FEMALE
+  firstName: ESTELLA
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside:
+  - 103
+  - 83
+  doNotSeatAtSameTable:
+  - 134
+  doNotSeatBeside:
+  - 4
+- id: 88
+  gender: MALE
+  firstName: SHERWOOD
+  lastName: WHITE
+  seatAtSameTable:
+  - 184
+  seatBeside:
+  - 249
+  - 228
+  doNotSeatAtSameTable:
+  - 4
+  doNotSeatBeside:
+  - 78
+  - 149
+- id: 89
+  gender: MALE
+  firstName: GIL
+  lastName: JOHNSON
+  seatAtSameTable:
+  - 200
+  - 53
+  seatBeside:
+  - 28
+  doNotSeatAtSameTable:
+  - 86
+  - 66
+  doNotSeatBeside:
+  - 164
+- id: 90
+  gender: FEMALE
+  firstName: CHIEKO
+  lastName: LEE
+  seatAtSameTable:
+  - 194
+  seatBeside:
+  - 130
+  - 51
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 91
+  gender: FEMALE
+  firstName: MARIA
+  lastName: GARCIA
+  seatAtSameTable: []
+  seatBeside:
+  - 241
+  - 8
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 174
+- id: 92
+  gender: MALE
+  firstName: SON
+  lastName: BROWN
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 93
+  gender: MALE
+  firstName: WALLACE
+  lastName: MILLER
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 94
+  gender: FEMALE
+  firstName: JANNETTE
+  lastName: TAYLOR
+  seatAtSameTable:
+  - 104
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 197
+- id: 95
+  gender: MALE
+  firstName: MILO
+  lastName: GARCIA
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 96
+  gender: MALE
+  firstName: NATHANIAL
+  lastName: MARTIN
+  seatAtSameTable: []
+  seatBeside:
+  - 181
+  doNotSeatAtSameTable:
+  - 242
+  - 96
+  doNotSeatBeside:
+  - 105
+- id: 97
+  gender: MALE
+  firstName: ROLLAND
+  lastName: ANDERSON
+  seatAtSameTable: []
+  seatBeside:
+  - 203
+  - 128
+  doNotSeatAtSameTable:
+  - 206
+  - 231
+  doNotSeatBeside: []
+- id: 98
+  gender: FEMALE
+  firstName: TAMMERA
+  lastName: CLARK
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 106
+  - 111
+  doNotSeatBeside: []
+- id: 99
+  gender: FEMALE
+  firstName: LONA
+  lastName: RODRIGUEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 100
+  gender: MALE
+  firstName: HAYDEN
+  lastName: JACKSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 28
+  - 6
+  doNotSeatBeside:
+  - 78
+  - 2
+- id: 101
+  gender: FEMALE
+  firstName: ZENAIDA
+  lastName: CLARK
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 102
+  gender: FEMALE
+  firstName: ELLIE
+  lastName: ANDERSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 103
+  gender: MALE
+  firstName: DEXTER
+  lastName: ANDERSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 104
+  gender: FEMALE
+  firstName: BELIA
+  lastName: SMITH
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 105
+  gender: FEMALE
+  firstName: AMELIA
+  lastName: ANDERSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 106
+  gender: MALE
+  firstName: ORVILLE
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 107
+  gender: MALE
+  firstName: RAYMUNDO
+  lastName: GARCIA
+  seatAtSameTable:
+  - 242
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 181
+  - 87
+  doNotSeatBeside:
+  - 90
+  - 29
+- id: 108
+  gender: MALE
+  firstName: WINFRED
+  lastName: CLARK
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 109
+  gender: FEMALE
+  firstName: LISSETTE
+  lastName: WILLIAMS
+  seatAtSameTable: []
+  seatBeside:
+  - 111
+  - 55
+  doNotSeatAtSameTable:
+  - 101
+  - 191
+  doNotSeatBeside:
+  - 106
+- id: 110
+  gender: FEMALE
+  firstName: TANJA
+  lastName: WALKER
+  seatAtSameTable:
+  - 203
+  - 231
+  seatBeside:
+  - 166
+  - 95
+  doNotSeatAtSameTable:
+  - 245
+  - 65
+  doNotSeatBeside:
+  - 193
+- id: 111
+  gender: MALE
+  firstName: CHONG
+  lastName: JONES
+  seatAtSameTable: []
+  seatBeside:
+  - 90
+  - 10
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 203
+- id: 112
+  gender: MALE
+  firstName: DORIAN
+  lastName: RODRIGUEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 113
+  gender: MALE
+  firstName: SHANNON
+  lastName: GARCIA
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 87
+  - 69
+- id: 114
+  gender: MALE
+  firstName: PASQUALE
+  lastName: DAVIS
+  seatAtSameTable:
+  - 240
+  - 102
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 64
+- id: 115
+  gender: MALE
+  firstName: TYREE
+  lastName: MOORE
+  seatAtSameTable: []
+  seatBeside:
+  - 138
+  - 201
+  doNotSeatAtSameTable:
+  - 235
+  - 26
+  doNotSeatBeside:
+  - 140
+- id: 116
+  gender: FEMALE
+  firstName: PHILOMENA
+  lastName: WILLIAMS
+  seatAtSameTable:
+  - 161
+  - 173
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 121
+  - 155
+  doNotSeatBeside:
+  - 96
+  - 68
+- id: 117
+  gender: MALE
+  firstName: LEVI
+  lastName: WILSON
+  seatAtSameTable:
+  - 55
+  - 125
+  seatBeside:
+  - 124
+  - 53
+  doNotSeatAtSameTable:
+  - 158
+  doNotSeatBeside:
+  - 101
+- id: 118
+  gender: FEMALE
+  firstName: JOSPHINE
+  lastName: HARRIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 119
+  gender: MALE
+  firstName: MARCUS
+  lastName: TAYLOR
+  seatAtSameTable:
+  - 210
+  seatBeside:
+  - 9
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 120
+  gender: FEMALE
+  firstName: AUDRIE
+  lastName: RODRIGUEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 121
+  gender: FEMALE
+  firstName: JON
+  lastName: MARTIN
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 122
+  gender: FEMALE
+  firstName: BRUNILDA
+  lastName: GARCIA
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 123
+  gender: MALE
+  firstName: DREW
+  lastName: CLARK
+  seatAtSameTable:
+  - 117
+  seatBeside:
+  - 85
+  - 196
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 124
+  gender: FEMALE
+  firstName: KEREN
+  lastName: TAYLOR
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 125
+  gender: MALE
+  firstName: LLOYD
+  lastName: GARCIA
+  seatAtSameTable:
+  - 137
+  - 181
+  seatBeside:
+  - 13
+  - 194
+  doNotSeatAtSameTable:
+  - 106
+  doNotSeatBeside:
+  - 214
+- id: 126
+  gender: MALE
+  firstName: LYMAN
+  lastName: MOORE
+  seatAtSameTable:
+  - 199
+  seatBeside:
+  - 244
+  doNotSeatAtSameTable:
+  - 218
+  - 23
+  doNotSeatBeside: []
+- id: 127
+  gender: MALE
+  firstName: OLIVER
+  lastName: ANDERSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 128
+  gender: FEMALE
+  firstName: VIRGIE
+  lastName: HARRIS
+  seatAtSameTable: []
+  seatBeside:
+  - 235
+  doNotSeatAtSameTable:
+  - 23
+  - 250
+  doNotSeatBeside:
+  - 61
+  - 88
+- id: 129
+  gender: MALE
+  firstName: CECIL
+  lastName: JONES
+  seatAtSameTable:
+  - 168
+  - 46
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 213
+  - 55
+  doNotSeatBeside: []
+- id: 130
+  gender: MALE
+  firstName: KENNY
+  lastName: ROBINSON
+  seatAtSameTable:
+  - 80
+  seatBeside:
+  - 77
+  - 99
+  doNotSeatAtSameTable:
+  - 245
+  - 1
+  doNotSeatBeside:
+  - 85
+- id: 131
+  gender: FEMALE
+  firstName: CALLIE
+  lastName: THOMAS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 132
+  gender: MALE
+  firstName: TRINIDAD
+  lastName: BROWN
+  seatAtSameTable:
+  - 31
+  - 66
+  seatBeside:
+  - 60
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 133
+  gender: MALE
+  firstName: ARMANDO
+  lastName: LEWIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 134
+  gender: MALE
+  firstName: CLARENCE
+  lastName: SMITH
+  seatAtSameTable:
+  - 201
+  seatBeside:
+  - 105
+  - 64
+  doNotSeatAtSameTable:
+  - 44
+  doNotSeatBeside:
+  - 101
+  - 225
+- id: 135
+  gender: MALE
+  firstName: MAC
+  lastName: WILSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 136
+  gender: MALE
+  firstName: AMBROSE
+  lastName: WILLIAMS
+  seatAtSameTable:
+  - 159
+  - 243
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 56
+  - 198
+  doNotSeatBeside: []
+- id: 137
+  gender: FEMALE
+  firstName: ELVA
+  lastName: JACKSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 230
+  doNotSeatBeside: []
+- id: 138
+  gender: FEMALE
+  firstName: CASSY
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 139
+  gender: FEMALE
+  firstName: SHIRLEE
+  lastName: CLARK
+  seatAtSameTable:
+  - 181
+  seatBeside:
+  - 239
+  - 36
+  doNotSeatAtSameTable:
+  - 151
+  - 49
+  doNotSeatBeside: []
+- id: 140
+  gender: FEMALE
+  firstName: LAURETTA
+  lastName: WILSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 141
+  gender: FEMALE
+  firstName: CONNIE
+  lastName: JONES
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 142
+  gender: MALE
+  firstName: BERRY
+  lastName: TAYLOR
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 143
+  gender: MALE
+  firstName: DEREK
+  lastName: TAYLOR
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 144
+  gender: MALE
+  firstName: ISREAL
+  lastName: LEE
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 145
+  gender: MALE
+  firstName: CARROLL
+  lastName: MILLER
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 146
+  gender: MALE
+  firstName: DORSEY
+  lastName: JACKSON
+  seatAtSameTable:
+  - 76
+  seatBeside:
+  - 149
+  - 121
+  doNotSeatAtSameTable:
+  - 156
+  - 14
+  doNotSeatBeside: []
+- id: 147
+  gender: FEMALE
+  firstName: WILDA
+  lastName: RODRIGUEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 44
+  - 192
+- id: 148
+  gender: FEMALE
+  firstName: TAMESHA
+  lastName: TAYLOR
+  seatAtSameTable: []
+  seatBeside:
+  - 240
+  - 14
+  doNotSeatAtSameTable:
+  - 101
+  - 143
+  doNotSeatBeside: []
+- id: 149
+  gender: FEMALE
+  firstName: MARTINA
+  lastName: HARRIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 150
+  gender: MALE
+  firstName: ISAAC
+  lastName: GARCIA
+  seatAtSameTable:
+  - 5
+  - 77
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 70
+  - 94
+- id: 151
+  gender: FEMALE
+  firstName: SIMA
+  lastName: MARTIN
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 4
+  doNotSeatBeside:
+  - 204
+  - 211
+- id: 152
+  gender: MALE
+  firstName: EMORY
+  lastName: MOORE
+  seatAtSameTable: []
+  seatBeside:
+  - 34
+  doNotSeatAtSameTable:
+  - 243
+  - 57
+  doNotSeatBeside:
+  - 223
+  - 56
+- id: 153
+  gender: MALE
+  firstName: BRYCE
+  lastName: WILLIAMS
+  seatAtSameTable:
+  - 3
+  - 154
+  seatBeside:
+  - 64
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 154
+  gender: FEMALE
+  firstName: ERNESTINE
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside:
+  - 36
+  doNotSeatAtSameTable:
+  - 25
+  doNotSeatBeside: []
+- id: 155
+  gender: FEMALE
+  firstName: QUEENIE
+  lastName: MILLER
+  seatAtSameTable:
+  - 36
+  - 217
+  seatBeside:
+  - 173
+  - 12
+  doNotSeatAtSameTable:
+  - 244
+  doNotSeatBeside:
+  - 41
+  - 156
+- id: 156
+  gender: MALE
+  firstName: EMMETT
+  lastName: WILLIAMS
+  seatAtSameTable:
+  - 129
+  seatBeside:
+  - 13
+  - 104
+  doNotSeatAtSameTable:
+  - 38
+  - 44
+  doNotSeatBeside: []
+- id: 157
+  gender: MALE
+  firstName: ROYCE
+  lastName: JONES
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 158
+  gender: FEMALE
+  firstName: LATRISHA
+  lastName: WALKER
+  seatAtSameTable: []
+  seatBeside:
+  - 162
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 248
+  - 44
+- id: 159
+  gender: MALE
+  firstName: BRUNO
+  lastName: LEWIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 160
+  gender: MALE
+  firstName: WARNER
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside:
+  - 141
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 183
+- id: 161
+  gender: FEMALE
+  firstName: MERISSA
+  lastName: HARRIS
+  seatAtSameTable:
+  - 33
+  seatBeside:
+  - 207
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 210
+- id: 162
+  gender: MALE
+  firstName: DARWIN
+  lastName: ROBINSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 163
+  gender: MALE
+  firstName: ANTONIA
+  lastName: MARTINEZ
+  seatAtSameTable:
+  - 217
+  seatBeside:
+  - 234
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 223
+- id: 164
+  gender: FEMALE
+  firstName: SERINA
+  lastName: BROWN
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 165
+  gender: MALE
+  firstName: ERASMO
+  lastName: MILLER
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 166
+  gender: MALE
+  firstName: DWAIN
+  lastName: MARTINEZ
+  seatAtSameTable:
+  - 108
+  - 155
+  seatBeside:
+  - 203
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 167
+  gender: FEMALE
+  firstName: TEMIKA
+  lastName: THOMAS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 168
+  gender: MALE
+  firstName: DEWITT
+  lastName: WILLIAMS
+  seatAtSameTable:
+  - 151
+  - 209
+  seatBeside:
+  - 176
+  - 34
+  doNotSeatAtSameTable:
+  - 44
+  doNotSeatBeside: []
+- id: 169
+  gender: MALE
+  firstName: WALLACE
+  lastName: LEWIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 170
+  gender: FEMALE
+  firstName: SHIRL
+  lastName: SMITH
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 171
+  gender: MALE
+  firstName: MORTON
+  lastName: MARTIN
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 172
+  gender: MALE
+  firstName: ALFRED
+  lastName: WILSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 173
+  gender: MALE
+  firstName: THAD
+  lastName: THOMAS
+  seatAtSameTable:
+  - 31
+  - 30
+  seatBeside:
+  - 70
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 174
+  gender: MALE
+  firstName: WILTON
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 175
+  gender: MALE
+  firstName: ELBERT
+  lastName: WILLIAMS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 176
+  gender: FEMALE
+  firstName: MERRI
+  lastName: JONES
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 177
+  gender: FEMALE
+  firstName: LUCRECIA
+  lastName: WALKER
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 178
+  gender: FEMALE
+  firstName: REVA
+  lastName: DAVIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 179
+  gender: FEMALE
+  firstName: LAKISHA
+  lastName: LEWIS
+  seatAtSameTable:
+  - 74
+  seatBeside:
+  - 73
+  - 242
+  doNotSeatAtSameTable:
+  - 62
+  doNotSeatBeside:
+  - 227
+- id: 180
+  gender: MALE
+  firstName: EMILIO
+  lastName: WILLIAMS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 181
+  gender: FEMALE
+  firstName: CANDRA
+  lastName: LEE
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 182
+  gender: FEMALE
+  firstName: TOMMIE
+  lastName: TAYLOR
+  seatAtSameTable: []
+  seatBeside:
+  - 97
+  - 58
+  doNotSeatAtSameTable:
+  - 215
+  - 175
+  doNotSeatBeside:
+  - 11
+  - 31
+- id: 183
+  gender: FEMALE
+  firstName: KANDI
+  lastName: HARRIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 184
+  gender: MALE
+  firstName: QUINTON
+  lastName: JONES
+  seatAtSameTable:
+  - 161
+  - 180
+  seatBeside:
+  - 3
+  - 15
+  doNotSeatAtSameTable:
+  - 93
+  - 159
+  doNotSeatBeside:
+  - 223
+- id: 185
+  gender: MALE
+  firstName: TOM
+  lastName: WILLIAMS
+  seatAtSameTable:
+  - 117
+  - 31
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 210
+  doNotSeatBeside: []
+- id: 186
+  gender: FEMALE
+  firstName: CANDIS
+  lastName: MILLER
+  seatAtSameTable:
+  - 242
+  - 117
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 86
+  - 136
+- id: 187
+  gender: MALE
+  firstName: ALTON
+  lastName: DAVIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 188
+  gender: MALE
+  firstName: ERWIN
+  lastName: MARTIN
+  seatAtSameTable:
+  - 9
+  - 120
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 19
+- id: 189
+  gender: FEMALE
+  firstName: KIRSTEN
+  lastName: ROBINSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 190
+  gender: MALE
+  firstName: JOAQUIN
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 191
+  gender: MALE
+  firstName: WILFREDO
+  lastName: RODRIGUEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 192
+  gender: MALE
+  firstName: DILLON
+  lastName: WHITE
+  seatAtSameTable:
+  - 210
+  - 151
+  seatBeside:
+  - 201
+  doNotSeatAtSameTable:
+  - 120
+  doNotSeatBeside: []
+- id: 193
+  gender: MALE
+  firstName: CHANG
+  lastName: LEE
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 194
+  gender: FEMALE
+  firstName: LAURINDA
+  lastName: CLARK
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 195
+  gender: FEMALE
+  firstName: RENEA
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 196
+  gender: FEMALE
+  firstName: DELORA
+  lastName: ROBINSON
+  seatAtSameTable:
+  - 61
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 13
+  - 109
+  doNotSeatBeside: []
+- id: 197
+  gender: MALE
+  firstName: HOBERT
+  lastName: THOMPSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 198
+  gender: FEMALE
+  firstName: CAROLYNN
+  lastName: JACKSON
+  seatAtSameTable:
+  - 238
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 215
+  doNotSeatBeside: []
+- id: 199
+  gender: FEMALE
+  firstName: JOHNETTA
+  lastName: WHITE
+  seatAtSameTable:
+  - 223
+  - 16
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 155
+  - 103
+  doNotSeatBeside: []
+- id: 200
+  gender: FEMALE
+  firstName: CLAIRE
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 201
+  gender: FEMALE
+  firstName: SONA
+  lastName: WILSON
+  seatAtSameTable:
+  - 36
+  - 53
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 34
+  - 225
+  doNotSeatBeside:
+  - 80
+  - 23
+- id: 202
+  gender: MALE
+  firstName: THOMAS
+  lastName: TAYLOR
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 203
+  gender: FEMALE
+  firstName: KELSI
+  lastName: TAYLOR
+  seatAtSameTable:
+  - 66
+  seatBeside:
+  - 93
+  doNotSeatAtSameTable:
+  - 131
+  doNotSeatBeside:
+  - 160
+  - 95
+- id: 204
+  gender: MALE
+  firstName: VICTOR
+  lastName: WALKER
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 205
+  gender: FEMALE
+  firstName: MITSUKO
+  lastName: TAYLOR
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 206
+  gender: FEMALE
+  firstName: ZULA
+  lastName: JOHNSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 207
+  gender: MALE
+  firstName: CLIFTON
+  lastName: HARRIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 208
+  gender: MALE
+  firstName: JOHNNY
+  lastName: SMITH
+  seatAtSameTable:
+  - 212
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 209
+  gender: FEMALE
+  firstName: ANETTE
+  lastName: TAYLOR
+  seatAtSameTable:
+  - 156
+  - 244
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 101
+  doNotSeatBeside:
+  - 152
+  - 47
+- id: 210
+  gender: MALE
+  firstName: JARED
+  lastName: WHITE
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 211
+  gender: MALE
+  firstName: GARRY
+  lastName: MOORE
+  seatAtSameTable: []
+  seatBeside:
+  - 233
+  - 53
+  doNotSeatAtSameTable:
+  - 20
+  - 34
+  doNotSeatBeside:
+  - 87
+- id: 212
+  gender: MALE
+  firstName: DEWEY
+  lastName: HARRIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 213
+  gender: FEMALE
+  firstName: VANNESA
+  lastName: THOMPSON
+  seatAtSameTable:
+  - 191
+  - 133
+  seatBeside:
+  - 82
+  - 49
+  doNotSeatAtSameTable:
+  - 110
+  - 67
+  doNotSeatBeside: []
+- id: 214
+  gender: FEMALE
+  firstName: GALE
+  lastName: ROBINSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 215
+  gender: MALE
+  firstName: MERLE
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 216
+  gender: FEMALE
+  firstName: LEAN
+  lastName: WALKER
+  seatAtSameTable: []
+  seatBeside:
+  - 68
+  - 207
+  doNotSeatAtSameTable:
+  - 174
+  - 206
+  doNotSeatBeside:
+  - 185
+  - 42
+- id: 217
+  gender: MALE
+  firstName: RODOLFO
+  lastName: WALKER
+  seatAtSameTable:
+  - 138
+  seatBeside:
+  - 102
+  - 104
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 218
+  gender: MALE
+  firstName: EFREN
+  lastName: MARTIN
+  seatAtSameTable:
+  - 167
+  - 170
+  seatBeside:
+  - 24
+  - 147
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 29
+  - 102
+- id: 219
+  gender: FEMALE
+  firstName: PEARLIE
+  lastName: JACKSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 220
+  gender: FEMALE
+  firstName: DAKOTA
+  lastName: CLARK
+  seatAtSameTable:
+  - 179
+  - 225
+  seatBeside:
+  - 72
+  doNotSeatAtSameTable:
+  - 38
+  doNotSeatBeside: []
+- id: 221
+  gender: MALE
+  firstName: AGUSTIN
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 222
+  gender: FEMALE
+  firstName: SANTOS
+  lastName: BROWN
+  seatAtSameTable:
+  - 170
+  seatBeside:
+  - 123
+  doNotSeatAtSameTable:
+  - 238
+  doNotSeatBeside: []
+- id: 223
+  gender: FEMALE
+  firstName: SHEILA
+  lastName: GARCIA
+  seatAtSameTable:
+  - 47
+  - 95
+  seatBeside:
+  - 240
+  - 241
+  doNotSeatAtSameTable:
+  - 27
+  doNotSeatBeside:
+  - 41
+- id: 224
+  gender: FEMALE
+  firstName: NEVA
+  lastName: THOMPSON
+  seatAtSameTable:
+  - 78
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 24
+  - 90
+  doNotSeatBeside:
+  - 100
+  - 174
+- id: 225
+  gender: FEMALE
+  firstName: TORA
+  lastName: LEWIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 226
+  gender: MALE
+  firstName: ZACK
+  lastName: GARCIA
+  seatAtSameTable:
+  - 70
+  seatBeside:
+  - 131
+  - 177
+  doNotSeatAtSameTable:
+  - 130
+  - 156
+  doNotSeatBeside:
+  - 16
+- id: 227
+  gender: MALE
+  firstName: HOWARD
+  lastName: THOMAS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 228
+  gender: FEMALE
+  firstName: DETRA
+  lastName: MILLER
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 229
+  gender: FEMALE
+  firstName: CAMILLA
+  lastName: HARRIS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 230
+  gender: MALE
+  firstName: PASQUALE
+  lastName: LEWIS
+  seatAtSameTable:
+  - 192
+  - 77
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 75
+  - 89
+  doNotSeatBeside:
+  - 220
+- id: 231
+  gender: MALE
+  firstName: MONTY
+  lastName: WALKER
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 232
+  gender: FEMALE
+  firstName: HIEDI
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 233
+  gender: FEMALE
+  firstName: CASIMIRA
+  lastName: JONES
+  seatAtSameTable:
+  - 30
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 216
+  doNotSeatBeside:
+  - 72
+  - 142
+- id: 234
+  gender: FEMALE
+  firstName: TEMEKA
+  lastName: JACKSON
+  seatAtSameTable:
+  - 60
+  seatBeside:
+  - 192
+  doNotSeatAtSameTable:
+  - 125
+  - 168
+  doNotSeatBeside:
+  - 23
+  - 211
+- id: 235
+  gender: MALE
+  firstName: OTHA
+  lastName: CLARK
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 236
+  gender: FEMALE
+  firstName: ISABEL
+  lastName: LEE
+  seatAtSameTable:
+  - 190
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 227
+  doNotSeatBeside:
+  - 193
+  - 169
+- id: 237
+  gender: MALE
+  firstName: AARON
+  lastName: WALKER
+  seatAtSameTable: []
+  seatBeside:
+  - 206
+  - 238
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 238
+  gender: FEMALE
+  firstName: GERTHA
+  lastName: JOHNSON
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 239
+  gender: MALE
+  firstName: CLEMENT
+  lastName: LEE
+  seatAtSameTable: []
+  seatBeside:
+  - 110
+  - 138
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 240
+  gender: MALE
+  firstName: MARCELO
+  lastName: SMITH
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 167
+  - 56
+- id: 241
+  gender: MALE
+  firstName: RICARDO
+  lastName: JOHNSON
+  seatAtSameTable: []
+  seatBeside:
+  - 85
+  - 104
+  doNotSeatAtSameTable:
+  - 59
+  doNotSeatBeside: []
+- id: 242
+  gender: MALE
+  firstName: JERROLD
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside:
+  - 229
+  - 147
+- id: 243
+  gender: FEMALE
+  firstName: ANASTASIA
+  lastName: WILLIAMS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 244
+  gender: FEMALE
+  firstName: ELANE
+  lastName: JOHNSON
+  seatAtSameTable:
+  - 29
+  seatBeside:
+  - 55
+  - 49
+  doNotSeatAtSameTable:
+  - 67
+  doNotSeatBeside:
+  - 192
+  - 119
+- id: 245
+  gender: MALE
+  firstName: BRYAN
+  lastName: WILSON
+  seatAtSameTable:
+  - 63
+  - 217
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 204
+  doNotSeatBeside: []
+- id: 246
+  gender: FEMALE
+  firstName: KAYCEE
+  lastName: JOHNSON
+  seatAtSameTable:
+  - 198
+  seatBeside:
+  - 76
+  - 40
+  doNotSeatAtSameTable:
+  - 130
+  - 210
+  doNotSeatBeside:
+  - 197
+- id: 247
+  gender: MALE
+  firstName: JASPER
+  lastName: MARTINEZ
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 248
+  gender: MALE
+  firstName: HERMAN
+  lastName: HARRIS
+  seatAtSameTable:
+  - 108
+  - 96
+  seatBeside: []
+  doNotSeatAtSameTable:
+  - 12
+  doNotSeatBeside:
+  - 232
+  - 46
+- id: 249
+  gender: FEMALE
+  firstName: ROSANNA
+  lastName: WILLIAMS
+  seatAtSameTable: []
+  seatBeside: []
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []
+- id: 250
+  gender: FEMALE
+  firstName: SAVANNAH
+  lastName: WALKER
+  seatAtSameTable: []
+  seatBeside:
+  - 208
+  - 231
+  doNotSeatAtSameTable: []
+  doNotSeatBeside: []

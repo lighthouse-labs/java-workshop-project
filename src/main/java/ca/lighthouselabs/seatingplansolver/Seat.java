@@ -11,6 +11,10 @@ public class Seat {
 
     private Integer id;
 
+    private Integer tableNumber;
+
+    private Integer seatNumber;
+
     private Seat left;
 
     private Seat right;
@@ -23,6 +27,22 @@ public class Seat {
 
     public void setId(Integer id) {
         this.id = id;
+    }
+
+    public Integer getTableNumber() {
+        return tableNumber;
+    }
+
+    public void setTableNumber(Integer tableNumber) {
+        this.tableNumber = tableNumber;
+    }
+
+    public Integer getSeatNumber() {
+        return seatNumber;
+    }
+
+    public void setSeatNumber(Integer seatNumber) {
+        this.seatNumber = seatNumber;
     }
 
     public Seat getLeft() {

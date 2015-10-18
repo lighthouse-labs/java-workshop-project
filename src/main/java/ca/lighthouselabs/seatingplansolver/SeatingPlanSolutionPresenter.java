@@ -1,7 +1,8 @@
 package ca.lighthouselabs.seatingplansolver;
 
+import org.apache.commons.lang.builder.CompareToBuilder;
+
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 /**
@@ -15,16 +16,18 @@ public class SeatingPlanSolutionPresenter {
         this.seatingPlanSolution = seatingPlanSolution;
     }
 
-    public String display() {
+    public String displaySeatAssignments() {
         StringBuilder sb = new StringBuilder();
-        sb.append("Score: ");
-        sb.append(seatingPlanSolution.getScore());
-        sb.append("\nDetails: \n");
         List<Seat> seats = new ArrayList<>(seatingPlanSolution.getSeats());
-        Collections.sort(seats, (a, b) -> a.getId() - b.getId());
+        seats.sort((seat1, seat2) -> new CompareToBuilder()
+                .append(seat1.getTableNumber(), seat2.getTableNumber())
+                .append(seat1.getSeatNumber(), seat2.getSeatNumber())
+                .toComparison());
         for (Seat seat : seats) {
-            sb.append("Seat: ");
-            sb.append(seat.getId());
+            sb.append("Table: ");
+            sb.append(seat.getTableNumber());
+            sb.append(", Seat: ");
+            sb.append(seat.getSeatNumber());
             sb.append(", Guest: ");
             Guest guest = seat.getGuest();
             if (guest == null) {
@@ -40,10 +43,6 @@ public class SeatingPlanSolutionPresenter {
             sb.append("\n");
         }
         return sb.toString();
-    }
-
-    public SeatingPlanSolution getSeatingPlanSolution() {
-        return seatingPlanSolution;
     }
 
 }

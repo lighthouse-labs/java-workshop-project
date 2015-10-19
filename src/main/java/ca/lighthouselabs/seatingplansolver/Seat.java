@@ -11,6 +11,7 @@ import org.optaplanner.core.api.domain.variable.PlanningVariable;
  * @author David VanDusen
  */
 // This is an example of a Bean class. It has a collection of properties with getters and setters.
+//
 // The following @PlanningEntity annotation indicates that this Bean is part of a planning problem
 // and that it has a property that can be updated from a set of known values that will change the
 // score for the solution that it is part of.

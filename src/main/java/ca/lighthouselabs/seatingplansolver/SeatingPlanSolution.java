@@ -15,13 +15,14 @@ import java.util.Set;
  *
  * @author David VanDusen
  */
-// By extending SeatingPlan the need to add the score and problem facts properties to the plain old
-// SeatingPlan class. This is an example of the Open-Closed principle by which we can add
-// functionality to an existing class by extending it to prevent the need to change an existing,
+// By extending SeatingPlan the need to add the score and problemFacts properties to the plain old
+// SeatingPlan class is eliminated. This is an example of the open/closed principle by which we can
+// add functionality to an existing class by extending it to prevent the need to change an existing,
 // working class by adding irrelevant or confusing new behaviour.
+//
 // The following @PlanningSolution annotation indicates that this is a solution class for a planning
 // problem in conjunction with the implementation of the Solution interface (which takes the kind
-// of score that this solution has as a type parameter.)
+// of score that this solution uses as a type parameter.)
 @PlanningSolution
 public class SeatingPlanSolution extends SeatingPlan implements Solution<HardSoftScore> {
 
@@ -40,6 +41,7 @@ public class SeatingPlanSolution extends SeatingPlan implements Solution<HardSof
     @Override
     @ValueRangeProvider(id = "guests")
     public Set<Guest> getGuests() {
+        // The super keyword is a reference to the superclass on which the original method is called
         return super.getGuests();
     }
 
@@ -50,6 +52,7 @@ public class SeatingPlanSolution extends SeatingPlan implements Solution<HardSof
     @Override
     @PlanningEntityCollectionProperty
     public Set<Seat> getSeats() {
+        // The super keyword is a reference to the superclass on which the original method is called
         return super.getSeats();
     }
 

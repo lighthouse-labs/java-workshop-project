@@ -10,24 +10,43 @@ import java.util.Collection;
 import java.util.Set;
 
 /**
- * Created by David VanDusen.
+ * Represents a solution for a seating plan problem with a score to indicate how successfully it
+ * solved the planning problem.
+ *
+ * @author David VanDusen
  */
+// By extending SeatingPlan the need to add the score and problem facts properties to the plain old
+// SeatingPlan class. This is an example of the Open-Closed principle by which we can add
+// functionality to an existing class by extending it to prevent the need to change an existing,
+// working class by adding irrelevant or confusing new behaviour.
+// The following @PlanningSolution annotation indicates that this is a solution class for a planning
+// problem in conjunction with the implementation of the Solution interface (which takes the kind
+// of score that this solution has as a type parameter.)
 @PlanningSolution
 public class SeatingPlanSolution extends SeatingPlan implements Solution<HardSoftScore> {
 
     private HardSoftScore score;
 
+    // It is necessary to implement every method in the Solution interface, even if the
+    // functionality of the method is never used.
     @Override
     public Collection<?> getProblemFacts() {
         return null;
     }
 
+    // This method from the SeatingPlan class is overridden in order to annotate the property with
+    // @ValueRangeProvider which indicates that this method can be called to get references to
+    // objects that can be set on planning variables up change the score of the solution.
     @Override
     @ValueRangeProvider(id = "guests")
     public Set<Guest> getGuests() {
         return super.getGuests();
     }
 
+    // This method from the SeatingPlan class is overridden in order to annotate the property with
+    // @PlanningEntityCollectionProperty which indicates that this method can be called to get
+    // references to planning entity object which have properties that can be updates to change the
+    // score of the solution.
     @Override
     @PlanningEntityCollectionProperty
     public Set<Seat> getSeats() {

@@ -3,10 +3,19 @@ package ca.lighthouselabs.seatingplansolver;
 import java.util.Set;
 
 /**
- * Created by David VanDusen.
+ * Represents a guest at an event. Contains information identifying the individual person as well
+ * as preferences they have about seating beside or at the same table as specific other guests.
+ *
+ * @author David VanDusen
  */
+// This is an example of a Bean class. It has a collection of properties with getters and setters.
 public class Guest {
 
+    // This is an enum, which is basically a class that there are only a very specific number of
+    // instances of. In this case, there are only allowed to be exactly two instances of this class
+    // and they are accessible through the constants Gender.MALE and Gender.FEMALE. This makes it
+    // possible to guarantee that the gender field below is only allowed exactly one of these
+    // values.
     public enum Gender {
         MALE, FEMALE
     }

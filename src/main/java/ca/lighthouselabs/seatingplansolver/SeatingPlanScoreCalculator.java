@@ -44,20 +44,20 @@ public class SeatingPlanScoreCalculator implements EasyScoreCalculator<SeatingPl
     }
 
     // Calculates how many guests in the guest list do not have a seat assigned to them.
-    private int getUnseatedGuests(SeatingPlanSolution solution) {
+    private long getUnseatedGuests(SeatingPlanSolution solution) {
         // Get the number of guests with seat assignments
         // Start with all the seats
-        int seatedGuests = solution.getSeats()
+        long seatedGuests = solution.getSeats()
                 // Turn the collection into a stream
                 .stream()
                 // Remove the seats that aren't assigned to anyone
                 .filter(seat -> seat.getGuest() != null)
                 // Turn it into a collection of guests that have seats
                 .map(Seat::getGuest)
-                // Collect those values to a Set so that duplicate guests are omitted
-                .collect(Collectors.toSet())
-                // Get the size of the resulting set
-                .size();
+                // Remove duplicate guests
+                .distinct()
+                // Count the elements remaining in the stream
+                .count();
         // Get the total number of guests
         int totalGuests = solution.getGuests().size();
         // Return the difference between the total number of guests and the number of guests with
